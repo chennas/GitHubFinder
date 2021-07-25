@@ -6,11 +6,11 @@ metadata:
   devxstatus: underreview
   devxcreateddate: 07-15-2021
   annotations:
-    backstage.io/managed-by-location: https://github.com/chennas/GitHubFinder/tree/development/CBRE-1.yaml
-    backstage.io/managed-by-origin-location: https://github.com/chennas/GitHubFinder/blob/development/CBRE-1.yaml
+    backstage.io/managed-by-location: url:https://github.com/chennas/GitHubFinder/tree/development/CBRE-1.yaml
+    backstage.io/managed-by-origin-location: url:https://github.com/chennas/GitHubFinder/blob/development/CBRE-1.yaml
     backstage.io/view-url: https://github.com/chennas/GitHubFinder/tree/development/CBRE-1.yaml
     backstage.io/edit-url: https://github.com/chennas/GitHubFinder/edit/development/CBRE-1.yaml
-    backstage.io/source-location: https://github.com/chennas/gwc139/tree/development/
+    backstage.io/source-location: url:https://github.com/chennas/gwc139/tree/development/
   tags:
     - csharp
     - dotnet
